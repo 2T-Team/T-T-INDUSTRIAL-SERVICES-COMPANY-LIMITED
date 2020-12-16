@@ -17,6 +17,8 @@ html{
 
 body{
     overflow-x: hidden;
+    width: 80%;
+    margin:auto;
 }
 /* *******************************************/
 /* ************** REUSABLECONTENT **************/
@@ -49,4 +51,5 @@ h2{
 {
     padding-left: 10%;
     padding-right: 10%;
+    list-style-type: square;
 }
